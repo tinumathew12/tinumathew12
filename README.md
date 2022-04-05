@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tinumathew12
+- 👀 I'm a guy who loves to code and make lil cool projects!!!
+- 🌱 I’m currently learning CS in High School 
